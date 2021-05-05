@@ -23,7 +23,6 @@ There are three photographers represented here:
 
 Poole and Maitland are well known St. Catharines photographers from this time. The Millers remain a bit of a mystery.  We know that they were in operation from 1865 to 1870 and that is about it.  Mr. Miller's first name might have been Chauncey.  There is more research that needs to be done.  But his image here of downtown St. Catharines looking Southwest from the steeple of St. George's Church would be the oldest photo in this collection.
 
-![Overview of downtown St. Catharines from Church Street](card1.jpg)
+![Overview of downtown St. Catharines from Church Street](/card1.jpg)
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include feature/abouttheabout.md %} 
+
