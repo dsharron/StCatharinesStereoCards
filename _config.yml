@@ -8,30 +8,30 @@
 # URL VARIABLES
 #
 # url is your gh-pages base, following the pattern: username.github.io
-url: https://collectionbuilder.github.io
+url: https://dsharron.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /collectionbuilder-gh
+baseurl: /StCatharinesStereoCards
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
+source-code: https://github.com/dsharron/StCatharinesStereoCards
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: 19th Century Stereo Cards of St. Catharines
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Newly acquired by the Brock University Archives
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "These stereo cards were acquired in February in an effort to keep these available to the public rather than a private collection"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: dsharron
 
 ##########
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: demo-metadata 
+metadata: stcstereocards 
 
 ##########
 # GOOGLE SERVICES [optional!]
