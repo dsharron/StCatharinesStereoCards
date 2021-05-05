@@ -14,12 +14,16 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+These stereo cards were acquired by the Brock University Archives in February 2021.  Understanding the research interests of the Brock faculty and students as well as those of the Niagara community, we wanted to be sure that these would remain publicly available into the future.
 
-- a CSV of collection metadata
-- a folder of JPEG images or PDF documents
+There are three photographers represented here:
+1. Edwin Poole
+2. G.F. Maitland
+3. Mr. & Mrs. Miller
 
-The base site features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+Poole and Maitland are well known St. Catharines photographers from this time. The Millers remain a bit of a mystery.  We know that they were in operation from 1865 to 1870 and that is about it.  Mr. Miller's first name might have been Chauncey.  There is more research that needs to be done.  But his image here of downtown St. Catharines looking Southwest from the steeple of St. George's Church would be the oldest photo in this collection.
+
+![Overview of downtown St. Catharines from Church Street](card1.jpg)
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include feature/abouttheabout.md %} 
